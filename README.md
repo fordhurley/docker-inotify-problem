@@ -68,3 +68,11 @@ I'm running Docker with `boot2docker` on OS X.
     $ boot2docker version
     Boot2Docker-cli version: v1.5.0
     Git commit: ccd9032
+
+UPDATE: confirmed still a problem with latest versions:
+
+    $ docker -v
+    Docker version 1.6.2, build 7c8fca2
+    $ boot2docker version
+    Boot2Docker-cli version: v1.6.2
+    Git commit: cb2c3bc
