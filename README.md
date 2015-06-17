@@ -61,3 +61,10 @@ Here's what I see on the output:
     -rwxr-xr-x 1 1000 staff  268 Jun  1 15:35 watcher.sh
 
 I'm running Docker with `boot2docker` on OS X.
+
+    $ docker -v
+    Docker version 1.5.0, build a8a31ef
+
+    $ boot2docker version
+    Boot2Docker-cli version: v1.5.0
+    Git commit: ccd9032
